@@ -19,6 +19,8 @@
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadLuz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 **What else...**
 
 - 🔭 I’m currently working on systems development
